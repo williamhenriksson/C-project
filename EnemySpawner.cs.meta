@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 07ab82f4cb6cd8b4a8e68f542f12af4f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - basicEnemyPrefab: {fileID: 9070438782844080332, guid: 7e242d501b2dbf74fa74e37d7b9ae6ad, type: 3}
+  - runnerPrefab: {fileID: 7823243241099083698, guid: 16b4d9a6690763f4d8889a7ef937b454, type: 3}
+  - brutusPrefab: {fileID: 6627746949117063109, guid: 07cf3db2d33adfb4596d9eba55ef4baf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
